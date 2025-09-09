@@ -1,6 +1,5 @@
-package com.sai.composelesson.ui.theme
+package com.sai.composelesson.presentation.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
